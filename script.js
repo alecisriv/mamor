@@ -69,7 +69,7 @@ function openGift() {
         <h1>FELIZ CUMPLEAÑOS MI AMOR</h1>
         <h1>FELIZ CUMPLEAÑOS MI LINDA</h1>
         <h1>FELIZ CUMPLEAÑOS MI PRINCESA</h1>
-        <h1>FELIZ CUMPLEAÑOS MI RENA</h1>
+        <h1>FELIZ CUMPLEAÑOS MI REINA</h1>
         <h8>Con mucho amor, atentamente tu noviecito</h8>
       </div>
       <img src="mamor.jpg" alt="amor">
